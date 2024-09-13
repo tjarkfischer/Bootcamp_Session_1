@@ -9,5 +9,10 @@ def FizzBuzz():
         else:
             print(i)
 
+def  Stringcalculator():
+    first_number = int(input("Erste Zahl: \n"))
+    second_number = int(input("Zweite Zahl: \n"))
 
-FizzBuzz()
+    print(f"Das Ergebnis lautet: {first_number + second_number}")
+
+Stringcalculator()
