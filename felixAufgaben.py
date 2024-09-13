@@ -7,3 +7,8 @@ for i in range(100):
         print("Buzz")
     else:
         print(i)
+
+
+#---------Aufgabe2------------------
+
+numberOne = int(input("Test"))
